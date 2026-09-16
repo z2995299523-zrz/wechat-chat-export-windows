@@ -1,0 +1,4 @@
+interface:
+  display_name: "微信聊天记录导出（Windows）"
+  short_description: "在 Windows 上安全导出指定联系人的完整微信聊天记录和关联媒体文件"
+  default_prompt: "使用 $wechat-chat-export-windows 导出我电脑微信中指定联系人的完整聊天记录和媒体文件。"

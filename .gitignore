@@ -1,0 +1,38 @@
+# Python caches and local environments
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Local work and export directories
+work/
+output/
+outputs/
+export/
+exports/
+snapshot/
+snapshots/
+decrypted/
+media/
+
+# WeChat/SQLite databases and sidecar files
+*.db
+*.db-wal
+*.db-shm
+*.sqlite
+*.sqlite3
+
+# Secrets, protected key material, hooks, and logs
+*.key
+*.bin
+*.dll
+*.log
+*.dmp
+*.tmp
+
+# Editor and operating-system files
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
+desktop.ini
